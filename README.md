@@ -19,5 +19,5 @@ The ___skfuzzy_lmf___ package contains the implementation of Lower membership fu
 
 ## Contact
 * __Name__: Chetan Sinha
-* __Phone no.__: +91-6001026868
+* __Email ID__: chetan99sinha@gmail.com
 * __Address__: IIITG
