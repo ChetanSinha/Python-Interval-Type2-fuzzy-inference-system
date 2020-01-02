@@ -11,6 +11,6 @@ This repo has Python Implementation of Type 2 Fuzzy Inference System with 2 ante
 * matplotlib: __pip install matplotlib__ in cmd or powershell(Windows)/ terminal(linux)
 * skfuzzy: __pip install scikit-fuzzy__ in cmd or powershell(Windows)/ terminal(linux)
 ## Contact
-* __name__: Chetan Sinha
+* __Name__: Chetan Sinha
 * __Phone no.__: +91-6001026868
 * __Address__: IIITG
