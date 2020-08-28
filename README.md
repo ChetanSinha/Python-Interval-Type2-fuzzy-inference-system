@@ -1,7 +1,7 @@
 # Python-Interval-Type2-fuzzy-inference-system
 
 ## Description
-This repo has Python Implementation of _Interval Type 2(IT2) Fuzzy Inference System_ with 2 antecedents and 1 consequent.
+This repo has Python Implementation of _Interval Type 2(IT2) Fuzzy Inference System_ with crisp inputs.
 
 ## Prerequisites
 * Python 3.4+
